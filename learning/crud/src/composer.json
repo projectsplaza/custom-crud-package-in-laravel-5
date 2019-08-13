@@ -1,0 +1,6 @@
+{
+    "name": "learning/crud",
+    "description": "This is crud package",
+    "type": "projects",
+    "require": {}
+}
